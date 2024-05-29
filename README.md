@@ -22,5 +22,5 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-<div class="tenor-gif-embed" data-postid="11968924" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/maroons-footy-queenslander-gif-11968924">Maroons Footy GIF</a>from <a href="https://tenor.com/search/maroons-gifs">Maroons GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Snake animation](https://github.com/brmarangoni/brmarangoni/blob/output/github-contribution-grid-snake.svg)
 
