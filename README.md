@@ -2,9 +2,9 @@
 ## My name is Bruno Marangoni and my nickname is "BrunoW "!
 
 - 🔭 Atualmente estou trabalhando em gestão de projetos sociais.
-- 🌱 Atualmente estou aprendendo JavaScrip, html e css.
-- 👯 Estou procurando colaborar em alguns projetos de jogos. 
-- 🤔 Estou procurando ajuda com meu primeiro estágio.
+- 🌱 Aprendendo atualmente JavaScrip, html e css.
+- 👯 Procurando colaborar em alguns projetos de jogos. 
+- 🤔 Buscando minha primeira oportunidade de estágio.
 - 📫 Como entrar em contato comigo: brunofrc10@hotmail.com
 
 
