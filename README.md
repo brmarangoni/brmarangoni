@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bruno Marangoni and my nickname is "BrunoW "!
 
-- 🔭 Atualmente estou trabalhando em gestão de projetos sociais.
-- 🌱 Aprendendo atualmente JavaScrip, html e css.
+- 🔭 Atualmente estou trabalhando como axuliar de TI em uma Startup.
+- 🌱 Aprendendo atualmente PHP e TypeScript.
 - 👯 Procurando colaborar em alguns projetos de jogos. 
 - 🤔 Buscando minha primeira oportunidade de estágio.
 - 📫 Como entrar em contato comigo: brunofrc10@hotmail.com
